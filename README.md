@@ -9,3 +9,11 @@ FEATURES >>
 3. Modern UI: Built with Jetpack Compose for a responsive and intuitive user interface
 4. User Management: Track current user sessions and manage logout functionality
 5. Material Design 3: Follows the latest Material Design guidelines
+
+SCREENSHOTS >>
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 16px;">
+  <img src="screenshots/login_screen.jpg" alt="Login Screen" width="250" />
+  <img src="screenshots/chat_screen.jpg" alt="Chat Screen" width="250" />
+  <img src="screenshots/firestore_console.png" alt="Firestore Console" width="320" />
+</div>
