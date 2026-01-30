@@ -10,6 +10,17 @@ FEATURES >>
 4. User Management: Track current user sessions and manage logout functionality
 5. Material Design 3: Follows the latest Material Design guidelines
 
+SETUP >>
+
+1. Clone the repository
+2. Create your Firebase project at https://console.firebase.google.com/
+3. Download your `google-services.json` file from Firebase Console
+4. Place it in the `app/` directory (this file is gitignored for security)
+5. Enable Firebase Authentication and Firestore in your Firebase project
+6. Build and run the app
+
+Note: Never commit `google-services.json` to version control as it contains sensitive API keys.
+
 SCREENSHOTS >>
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 16px;">
