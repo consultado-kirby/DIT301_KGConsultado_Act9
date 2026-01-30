@@ -15,5 +15,5 @@ SCREENSHOTS >>
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 16px;">
   <img src="screenshots/login_screen.jpg" alt="Login Screen" width="250" />
   <img src="screenshots/chat_screen.jpg" alt="Chat Screen" width="250" />
-  <img src="screenshots/firestore_console.png" alt="Firestore Console" width="320" />
 </div>
+<img src="screenshots/firestore_console.png" alt="Firestore Console" width="320" />
